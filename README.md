@@ -110,5 +110,5 @@ Here are the steps to run the portfolio locally.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RONAK04/Portfolio/blob/main/LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RONAK04/Portfolio/blob/master/LICENSE.md)
 
