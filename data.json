@@ -1,0 +1,284 @@
+{
+    "main": {
+      "name": "Ronak Vadodariya",
+      "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+      "titles": [
+        "Frontend Development",
+        "Backend Development",
+        "App Development"
+      ],
+      "heroImage": "https://iili.io/HU7qTjs.md.jpg%22%20alt=%22HU7qTjs.md.jpg",
+      "techStackImages": [
+        "https://img.icons8.com/color/144/null/python.png",
+        "https://img.icons8.com/color/144/000000/html-5--v1.png",
+        "https://img.icons8.com/color/144/null/django.png",
+        "https://img.icons8.com/color/144/null/javascript--v1.png"
+      ]
+    },
+    "about": {
+      "aboutImage": "https://iili.io/HUrCgnf.md.jpg",
+      "aboutImageCaption": "< I build stuff 🚀/>",
+      "title": "Full Stack Developer",
+      "about": "I am a Full-Stack developer based in Ahmedabad, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
+      "callUrl": "",
+      "resumeUrl": ""
+    },
+    "socials": [
+      {
+        "icon": "FaLinkedin",
+        "link": "https://www.linkedin.com/in/ronak-vadodariya"
+      },
+      {
+        "icon": "FaGithub",
+        "link": "https://github.com/RONAK04"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "Nextjs",
+        "image": "https://img.icons8.com/color/144/null/nextjs.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "Reactjs",
+        "image": "https://img.icons8.com/color/144/null/react-native.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "Tailwind",
+        "image": "https://iili.io/HU7T52j.md.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "HTML5",
+        "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "CSS3",
+        "image": "https://img.icons8.com/color/144/null/css3.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "https://img.icons8.com/color/144/null/bootstrap.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "SaaS",
+        "image": "https://img.icons8.com/color/144/null/sass.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "jQuery",
+        "image": "https://img.icons8.com/ios-filled/144/null/jquery.png",
+        "category": "Frontend"
+      },
+      {
+        "name": "Firebase",
+        "image": "https://img.icons8.com/color/144/null/firebase.png",
+        "category": "Backend"
+      },
+      {
+        "name": "Nodejs",
+        "image": "https://img.icons8.com/color/144/null/nodejs.png",
+        "category": "Backend"
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://img.icons8.com/color/144/null/mongodb.png",
+        "category": "Backend"
+      },
+      {
+        "name": "AWS",
+        "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+        "category": "Backend"
+      },
+      {
+        "name": "MySQL",
+        "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
+        "category": "Backend"
+      },
+      {
+        "name": "PHP",
+        "image": "https://img.icons8.com/officel/144/null/php-logo.png",
+        "category": "Backend"
+      },
+      {
+        "name": "Servlet",
+        "image": "https://img.icons8.com/color/144/null/java-coffee-cup-logo.png",
+        "category": "Backend"
+      },
+      {
+        "name": "JSP",
+        "image": "https://img.icons8.com/color/144/null/jsp.png",
+        "category": "Backend"
+      },
+      {
+        "name": "Java",
+        "image": "https://img.icons8.com/color/144/null/java-coffee-cup-logo.png",
+        "category": "Backend"
+      },
+      {
+        "name": "Python",
+        "image": "https://img.icons8.com/color/144/null/python.png",
+        "category": "Backend"
+      },
+      {
+        "name": "Django",
+        "image": "https://img.icons8.com/color/144/null/django.png",
+        "category": "Backend"
+      },
+      {
+        "name": "GitHub",
+        "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+        "category": "Tools"
+      },
+      {
+        "name": "Android Studio",
+        "image": "https://img.icons8.com/color/144/null/android-studio--v3.png",
+        "category": "Tools"
+      },
+      {
+        "name": "Git",
+        "image": "https://img.icons8.com/color/144/null/git.png",
+        "category": "Tools"
+      },
+      {
+        "name": "Vercel",
+        "image": "https://iili.io/HU7uWo7.png",
+        "category": "Tools"
+      },
+      {
+        "name": "Heroku",
+        "image": "https://img.icons8.com/color/144/null/heroku.png",
+        "category": "Tools"
+      },
+      {
+        "name": "Jupyter Notebook",
+        "image": "https://iili.io/HU7usUJ.md.png",
+        "category": "Tools"
+      },
+      {
+        "name": "SQLite",
+        "image": "https://iili.io/HU7Ans9.md.png",
+        "category": "Tools"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blood Bank Management System",
+        "techstack": "HTML5, CSS3, JavaScript, Bootstrap, Python, Django, SQLite",
+        "category": "Web Development",
+        "image": "https://iili.io/HgwHTIS.md.png",
+        "links": {
+          "code": "https://github.com/RONAK04/Blood-bank-management-system",
+          "video": "",
+          "visit": ""
+        }
+      },
+      {
+        "name": "VSITR Student Portal",
+        "techstack": "JAVA",
+        "category": "Web Development",
+        "image": "https://play-lh.googleusercontent.com/y_-anVKl3ID25Je02J1dseqlAm41N8pwI-Gad7aDxPIPss3d7hUYF8c08SNCtwSPW5g=w240-h480-rw",
+        "links": {
+          "code": "https://github.com/RONAK04/VSITR_Student_Protal",
+          "video": "",
+          "visit": ""
+        }
+      },
+      {
+        "name": "ISRO Higher Study Module and Training need Identification Module",
+        "techstack": "JAVA, MySQL, HTML, CSS, JavaScript, Bootstrap, Servlet, JSP, JSTL, Jquery, AJAX, Tomcat Server NOTE:--> I can't Revel this Project Code Because of ISRO Policy",
+        "category": "Web Development",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/1200px-Indian_Space_Research_Organisation_Logo.svg.png",
+        "links": {
+          "code": "",
+          "video": "",
+          "visit": ""
+        }
+      },
+      {
+        "name": "E-Commerce Website",
+        "techstack": "HTML5, CSS3, JavaScript, Bootstrap, Python, Django, SQLite",
+        "category": "Web Development",
+        "image": "https://www.angularminds.com/site_data/images/ecommerce-development/ecommerce-bg.png",
+        "links": {
+          "code": "https://github.com/RONAK04/E-Commerce-Website",
+          "video": "",
+          "visit": ""
+        }
+      },
+      {
+        "name": "Personal Portfolio Website",
+        "techstack": "HTML5, CSS3, JavaScript, Bootstrap, NextJs, Vercel, ReactJs",
+        "category": "Web Development",
+        "image": "https://www.angularminds.com/site_data/images/ecommerce-development/ecommerce-bg.png",
+        "links": {
+          "code": "https://github.com/RONAK04/E-Commerce-Website",
+          "video": "",
+          "visit": ""
+        }
+      }
+     
+    ],
+    "educations": [
+      {
+        "institute": "The H.B.Kapadia New High School | GSEB",
+        "degree": "HSC Science",
+        "duration": "2018 - 2019"
+      },
+      {
+        "institute": "Vidush Somany Institute of Technology and Research",
+        "degree": "B.Tech CE",
+        "duration": "2019 - 2023",
+        "desc": [
+          "Pursuing Computer Engineering course from Kadi Sarva Vishwavidyalaya",
+          "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+          "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+        ]
+      }
+    ],
+    "experiences": [
+      {
+        "company": "Sparks to Ideas",
+        "position": "Python Developer",
+        "duration": "June 2021 - December 2021",
+        "desc": [
+          "Honed Experience In Python Development.",
+          "Ilearned something new from my seniors, like how to write code easily and in a customised way.",
+          "I also worked on a company's project work there.",
+          "Skills: HTML · CSS · JavaScript · Python · Django · SQLite · Bootstrap"
+        ]
+      },
+      {
+        "company": "ISRO (Indian Space Research Organization)",
+        "position": "JAVA Developer/ Researcher",
+        "duration": "June 2022 - December 2022",
+        "desc": [
+          "Here I work on the Java project of ISRO",
+          "Project is Higher Study module and Training need Identification module in this project i work on the front end and back end both side. I work on the front end using HTML, CSS, JavaScript, Bootstrap, Servlet, JSP, JSTL, Jquery, AJAX and on the back end i work on the JAVA and MySQL.",
+          "Basically project flow is 6 level. The Flow is gose like HEAD, GD, GH, DD and Admin and after HRDD.",
+          "Flow is Based on Leave Type There are basically three type of Leave 1. With Leave 2. Without Leave 3. ISRO Sponsorship Leave",
+          "Skills: HTML · CSS · JavaScript · MySQL · Servlet · JSP · JSTL · Jquery · AJAX · Bootstrap · JAVA · Tomcat Server · Eclipse IDE"
+        ]
+      },
+      {
+        "company": "Humans Softtech",
+        "position": "Full Stack Developer",
+        "duration": "May 2023 - Present",
+        "desc": [
+          "Here I work as a Full Stack Developer",
+          "I work on Company's Live Project",
+          "Skills: HTML · CSS · JavaScript · MySQL · NodeJS · ReactJS · Bootstrap · NextJs · Python · Django · SQLite · MongoDB · Git · GitHub · Vercel · Heroku · Jupyter Notebook · VS Code · postgresql"
+        ]
+      }
+    ]
+  }
+  
