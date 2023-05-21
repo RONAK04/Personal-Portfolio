@@ -219,10 +219,10 @@
         "name": "Personal Portfolio Website",
         "techstack": "HTML5, CSS3, JavaScript, Bootstrap, NextJs, Vercel, ReactJs",
         "category": "Web Development",
-        "image": "https://www.angularminds.com/site_data/images/ecommerce-development/ecommerce-bg.png",
+        "image": "https://iili.io/HgMAQGp.md.png",
         "links": {
-          "code": "https://github.com/RONAK04/E-Commerce-Website",
-          "video": "",
+          "code": "https://github.com/RONAK04/Personal-Portfolio",
+          "video": "https://personal-portfolio-ronak04.vercel.app/",
           "visit": ""
         }
       }
